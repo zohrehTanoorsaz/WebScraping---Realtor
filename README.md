@@ -1,4 +1,3 @@
-# WebScraping - Realtor
 # Project Web Scraping
 
 ## Code Comparison

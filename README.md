@@ -169,7 +169,7 @@ df_target.head()
 In this section, we will explain the code responsible for creating an interactive map using the `folium` library, which is a Python wrapper for Leaflet.js. This map will display the locations of properties based on latitude and longitude coordinates from our dataset.
 
 <br />
-![Folium](Folium.JPG)
+![FoliumViz](FoliumViz.JPG)
 <br />
 
 ### Code Explanation

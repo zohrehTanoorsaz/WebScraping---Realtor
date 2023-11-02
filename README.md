@@ -336,11 +336,9 @@ For additional analysis and interpretations of these bar charts, please refer to
 ## Introduction
 
 This code is designed to extract city information from property addresses, create a new 'City' column in the dataset, and visualize the distribution of properties among different cities using a bar chart. The code aims to provide insights into the geographical distribution of properties.
-
 <br />
 ![City](City.png)
 <br />
-
 ### Code Explanation
 
 ```python

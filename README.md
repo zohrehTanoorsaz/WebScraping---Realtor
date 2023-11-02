@@ -167,11 +167,9 @@ df_target.head()
 ## Real Estate Geographic Visualization with Folium
 
 In this section, we will explain the code responsible for creating an interactive map using the `folium` library, which is a Python wrapper for Leaflet.js. This map will display the locations of properties based on latitude and longitude coordinates from our dataset.
-
 <br />
-![FoliumViz](FoliumViz.JPG)
+![Folium](Folium.JPG)
 <br />
-
 ### Code Explanation
 
 ```python
@@ -279,11 +277,9 @@ For further insights and analysis based on this visualization, please refer to t
 ## Data Visualization with Bar Charts
 
 In this section, we will explain the code responsible for creating two bar charts using the `Matplotlib` library. The code visualizes property and building types by plotting their counts, providing insights into the distribution of property and building types in the dataset.
-
 <br />
 ![BP](BP.JPG)
 <br />
-
 ### Code Explanation
 
 ```python

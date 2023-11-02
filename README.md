@@ -277,11 +277,9 @@ For further insights and analysis based on this visualization, please refer to t
 ## Data Visualization with Bar Charts
 
 In this section, we will explain the code responsible for creating two bar charts using the `Matplotlib` library. The code visualizes property and building types by plotting their counts, providing insights into the distribution of property and building types in the dataset.
-
 <br />
 ![BP](BP.JPG)
 <br />
-
 ### Code Explanation
 
 ```python
